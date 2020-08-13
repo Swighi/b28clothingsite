@@ -6,7 +6,7 @@ theme = "vex-hugo"
 title = "B28 Clothing"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "B28 Clothing"
 languageCode = "en-us"
 languageName = ""
 weight = 1
@@ -41,7 +41,7 @@ URL = "contact"
 name = "Contact"
 weight = 4
 [params]
-author = "Themefisher"
+author = "B28 Clothing"
 contact_form_action = "#"
 currency = "€"
 description = "This is meta description"
