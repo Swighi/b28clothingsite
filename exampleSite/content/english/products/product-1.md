@@ -5,7 +5,7 @@ images:
 - "/images/hoodie-back-transparent.png"
 - "/images/hoodie-front-transparent.png"
 description: ''
-price: '30.00'
+price: "45"
 discount_price: ''
 colors:
 - black
