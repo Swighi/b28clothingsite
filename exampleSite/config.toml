@@ -15,7 +15,7 @@ contentDir = "content/french1"
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
 languageCode = "en-us"
 languageName = "En"
-weight = 2
+weight = "0"
 [[menu.footer]]
 URL = "contact"
 name = "Contact"
