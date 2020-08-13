@@ -3,7 +3,7 @@ disableLanguages = []
 googleAnalytics = ""
 summarylength = "20"
 theme = "vex-hugo"
-title = "Vex | hugo landing page template"
+title = "B28 Clothing"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
@@ -36,10 +36,6 @@ weight = 1
 URL = "products"
 name = "Products"
 weight = 2
-[[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 3
 [[menu.main]]
 URL = "contact"
 name = "Contact"
