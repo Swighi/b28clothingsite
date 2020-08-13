@@ -16,5 +16,6 @@ sizes:
 - small
 - medium
 - large
+- extra-large
 
 ---
