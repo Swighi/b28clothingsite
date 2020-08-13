@@ -2,7 +2,7 @@
 title: Disco Vibes Hoodie
 date: 2019-10-17T11:22:16.000+06:00
 images:
-- images/showcase/hoodie-front.png
+- "/images/hoodie-front.png"
 - images/showcase/showcase-2.png
 - images/showcase/showcase-3.png
 - images/showcase/showcase-4.png
