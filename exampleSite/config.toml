@@ -8,7 +8,7 @@ title = "B28 Clothing"
 contentDir = "content/english"
 copyright = "2020 B28 Clothing"
 languageCode = "en-us"
-languageName = "en"
+languageName = "En"
 weight = 1
 [Languages.fr]
 contentDir = "content/french"
