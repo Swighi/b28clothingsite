@@ -13,7 +13,7 @@ weight = 1
 [Languages.fr]
 contentDir = "content/french"
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
-languageCode = "en-us"
+languageCode = "it-it"
 languageName = "En"
 weight = "2"
 [[menu.footer]]
@@ -46,7 +46,7 @@ contact_form_action = "#"
 currency = "€"
 description = "This is meta description"
 logo = "images/logo.png"
-logo_width = "150px"
+logo_width = "100px"
 snipcart_api = "ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1NDA4NjM4"
 [[params.plugins.css]]
 link = "https://fonts.googleapis.com/css?family=Droid+Serif:400|Josefin+Sans:300,400,600,700"
