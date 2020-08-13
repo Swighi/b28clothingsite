@@ -2,8 +2,8 @@
 title: Disco Vibes Hoodie
 date: 2019-10-17T11:22:16.000+06:00
 images:
-- "/images/hoodie-front.png"
-- "/images/showcase-2.png"
+- "/images/hoodie-front-transparent.png"
+- "/images/hoodie-back-transparent.png"
 description: ''
 price: '30.00'
 discount_price: ''
@@ -18,4 +18,3 @@ sizes:
 - large
 
 ---
-Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.
