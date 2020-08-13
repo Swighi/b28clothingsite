@@ -5,7 +5,7 @@ summarylength = "20"
 theme = "vex-hugo"
 title = "B28 Clothing"
 [Languages.en]
-contentDir = "content/French"
+contentDir = "content/english"
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
 languageCode = "en-us"
 languageName = "En"
