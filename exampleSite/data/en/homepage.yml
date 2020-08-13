@@ -2,7 +2,7 @@
 banner:
   enable: true
   title: B28 Clothing
-  content: Disco is our lifestyle
+  content: Disco is our way of life
   image: images/logo.png
   button:
     enable: true
